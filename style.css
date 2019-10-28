@@ -241,7 +241,7 @@
 }
 
 .f6 {
-    font-size: .975rem;
+    font-size: .875rem;
 }
 
 .f7 {
@@ -363,3 +363,6 @@
 
     @media only screen and (max-width: 480px){
         p{font-weight;: bold;}}
+
+        @media only screen and (max-width: 480px){
+            .f6{font-size;: .975rem;}}
