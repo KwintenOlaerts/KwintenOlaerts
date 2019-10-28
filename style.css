@@ -241,7 +241,7 @@
 }
 
 .f6 {
-    font-size: .875rem;
+    font-size: .975rem;
 }
 
 .f7 {
@@ -357,3 +357,6 @@
 .center{
     justify-content: center;
 }
+
+@media only screen and (max-width: 480px){
+    p{font-size: 18px;}}
