@@ -359,13 +359,11 @@
 }
 
 @media only screen and (max-width: 580px){
-    p{font-size: 1.3rem;}}
+    p{font-size: 16px;}}
 
-    @media only screen and (max-width: 480px){
-        p{font-weight;: bold;}}
 
         @media only screen and (max-width: 480px){
-            .lh-copy{font-size;: 1.2rem;}}
+            .lh-copy{font-size: 1.1rem;}}
 
 h1{
     font-family: "avenir next"
