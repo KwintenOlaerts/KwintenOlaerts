@@ -229,7 +229,9 @@
 }
 
 .f3 {
+    padding-top: 1.5rem;
     font-size: 1.5rem;
+    font-family: inherit;
 }
 
 .f4 {
@@ -363,7 +365,14 @@
 
 
         @media only screen and (max-width: 480px){
-            .lh-copy{font-size: 1.1rem;}}
+            .lh-copy{font-size: 1rem;}}
+
+            @media only screen and (max-width: 280px){
+                p{font-size: 14px;}}
+            
+            
+                    @media only screen and (max-width: 480px){
+                        .lh-copy{font-size: 1rem;}}
 
 h1{
     font-family: "avenir next"
@@ -380,4 +389,12 @@ h1{
 
 .flex-row-ns {
     flex-direction: column;
+}
 
+
+article{
+    font-family: 'Montserrat', sans-serif;
+}
+
+@media only screen and (max-width: 480px){
+    article{font-size: 1rem;}}
