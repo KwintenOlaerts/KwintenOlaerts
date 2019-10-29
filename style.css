@@ -359,22 +359,19 @@
 }
 
 @media only screen and (max-width: 480px){
-    p{font-size: 1rem;}}
+    p{font-size: 1.5rem;}}
 
     @media only screen and (max-width: 480px){
         p{font-weight;: bold;}}
 
         @media only screen and (max-width: 480px){
-            .f6{font-size;: .975rem;}}
+            .f6{font-size;: 1.2rem;}}
 
 h1{
     font-family: "avenir next"
 }
 
 .f-headline-l{
-    margin-left: 0.4rem;
+    margin-left: -0.5rem;
 }
 
-.f-headline-l{
-    margin-left: 0.4rem;
-}
