@@ -359,7 +359,7 @@
 }
 
 @media only screen and (max-width: 580px){
-    p{font-size: 16px;}}
+    p{font-size: 24px;}}
 
 
         @media only screen and (max-width: 480px){
@@ -371,5 +371,9 @@ h1{
 
 .marginleft{
     margin-left: 1rem;
+}
+
+.pa5-ns{
+    padding-top: 0px;
 }
 
