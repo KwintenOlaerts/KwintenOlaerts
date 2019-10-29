@@ -358,20 +358,20 @@
     justify-content: center;
 }
 
-@media only screen and (max-width: 480px){
-    p{font-size: 1.5rem;}}
+@media only screen and (max-width: 580px){
+    p{font-size: 1.3rem;}}
 
     @media only screen and (max-width: 480px){
         p{font-weight;: bold;}}
 
         @media only screen and (max-width: 480px){
-            .f6{font-size;: 1.2rem;}}
+            .lh-copy{font-size;: 1.2rem;}}
 
 h1{
     font-family: "avenir next"
 }
 
-.f-headline-l{
-    margin-left: -0.5rem;
-}
+/* .marginleft{
+    margin-left: 0rem;
+} */
 
