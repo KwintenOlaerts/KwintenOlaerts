@@ -398,3 +398,8 @@ article{
 
 @media only screen and (max-width: 480px){
     article{font-size: 1rem;}}
+
+    h1{
+        font-family: 'Montserrat', sans-serif;
+
+    }
