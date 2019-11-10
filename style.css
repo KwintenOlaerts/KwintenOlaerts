@@ -76,6 +76,9 @@
     margin-left: 3.2rem;
 }
 
+@media only screen and (max-width: 480px){
+    .centerthis{margin-left: 0rem;}}
+
 .fw6 {
     font-weight: 600;
 }
