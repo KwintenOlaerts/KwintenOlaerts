@@ -1,0 +1,7 @@
+# If you create a file in your repository named .gitignore,
+# Git uses it to determine which files and directories to ignore, before you make a commit.
+#
+# For more info see: https://help.github.com/en/github/using-git/ignoring-files
+
+*.DS_Store
+/.idea
