@@ -76,8 +76,11 @@
     margin-left: 3.2rem;
 }
 
-@media only screen and (max-width: 480px){
-    .centerthis{margin-left: 0rem;}}
+@media only screen and (max-width: 480px) {
+    .centerthis {
+        margin-left: 0rem;
+    }
+}
 
 .fw6 {
     font-weight: 600;
@@ -85,7 +88,7 @@
 
 .input-reset {
     -webkit-appearance: none;
-       -moz-appearance: none;
+    -moz-appearance: none;
 }
 
 .input-reset::-moz-focus-inner {
@@ -354,37 +357,49 @@
     }
 }
 
-.wrapper{
+.wrapper {
     display: flex;
 }
 
-.center{
+.center {
     justify-content: center;
 }
 
-@media only screen and (max-width: 580px){
-    p{font-size: 24px;}}
+@media only screen and (max-width: 580px) {
+    p {
+        font-size: 24px;
+    }
+}
 
 
-        @media only screen and (max-width: 480px){
-            .lh-copy{font-size: 1rem;}}
+@media only screen and (max-width: 480px) {
+    .lh-copy {
+        font-size: 1rem;
+    }
+}
 
-            @media only screen and (max-width: 280px){
-                p{font-size: 14px;}}
-            
-            
-                    @media only screen and (max-width: 480px){
-                        .lh-copy{font-size: 1rem;}}
+@media only screen and (max-width: 280px) {
+    p {
+        font-size: 14px;
+    }
+}
 
-h1{
+
+@media only screen and (max-width: 480px) {
+    .lh-copy {
+        font-size: 1rem;
+    }
+}
+
+h1 {
     font-family: "avenir next"
 }
 
-.marginleft{
+.marginleft {
     margin-left: 1rem;
 }
 
-.pa5-ns{
+.pa5-ns {
     padding-top: 0px;
 }
 
@@ -394,14 +409,17 @@ h1{
 }
 
 
-article{
+article {
     font-family: 'Montserrat', sans-serif;
 }
 
-@media only screen and (max-width: 480px){
-    article{font-size: 1rem;}}
-
-    h1{
-        font-family: 'Montserrat', sans-serif;
-
+@media only screen and (max-width: 480px) {
+    article {
+        font-size: 1rem;
     }
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+
+}
